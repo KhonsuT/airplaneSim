@@ -6,8 +6,13 @@ authors = [
     {name = "Derek",email = "derekzongnanchen@gmail.com"}
 ]
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.11,<3.14"
 dependencies = [
+    "numpy (>=2.2.3,<3.0.0)",
+    "scipy (>=1.15.2,<2.0.0)",
+    "jsbsim (>=1.2.1,<2.0.0)",
+    "pykalman (>=0.10.1,<0.11.0)",
+    "matplotlib (>=3.10.1,<4.0.0)"
 ]
 
 [tool.poetry]
