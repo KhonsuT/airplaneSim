@@ -1,10 +1,9 @@
 # airplaneSim
 Simulation project for aircrafts
-## Use JSBSim to Simulate Aircraft Movement
-## Extract Sensor Data (GPS, IMU, Airspeed) using pyFMI
-## Apply Kalman Filtering for Sensor Fusion
-## Plot Real-Time Aircraft Position using Matplotlib
-
+- Use JSBSim to Simulate Aircraft Movement
+- Extract Sensor Data (GPS, IMU, Airspeed) using pyFMI
+- Apply Kalman Filtering for Sensor Fusion
+## - 
 ## Install Required Libraries
 You need:
 
